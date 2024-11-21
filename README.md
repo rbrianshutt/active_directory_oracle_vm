@@ -29,7 +29,8 @@ x
 ![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/set_up_virtualbox.PNG)
 <br />
 <br />
-<b>Create a new scan.  Connect Nessus with host IP address: </b>
+<b>Configure two network adaptors: one for a NAT internet conneciton and the other Internal for a private network.
+ </b>
 <br/>
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/new_scan_basic_network_scan.PNG)
