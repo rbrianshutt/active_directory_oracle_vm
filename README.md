@@ -1,6 +1,6 @@
 <h1>Home Lab Active Directory Using Oracle Virtual Box</h1>
 
-![](https://github.com/rbrianshutt/nessus/blob/main/images/NessusEssentials.jpg)
+![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/active_directory_diagram.jpg)
 
 <h2>Description</h2>
 x  
@@ -9,25 +9,24 @@ x
 
 <h2>Technology Used</h2>
 
-- <b>VMware Workstation Pro</b>
+- <b>Oracle Virtual Box</b>
 - <b>Windows 10 ISO</b>
-- <b>Nessus Essentials</b>
-- <b>Old version of Firefox</b>
+- <b>Windows 2019 Server</b>
 
  
 <h2>Program walk-through:</h2>
 
 
-- <b>Installed VMware Workstation Pro</b>
-- <b>Download Windows 10 ISO</b>
-- <b>Download and Install Nessus Essentials</b>
-- <b>Connect with VM</b>
+- <b>Download and install Oracle VirtualBox from the official website.</b>
+- <b>Download the Windows 10 and Server 2019 ISO files.</b>
+
 <br/>
-<b>Set up a basic scan in Nessus Essential</b>
+<b>Create a new virtual machine named DC (Domain Controller) using Windows 2019 Server iso file.</b>
+
 <br/>
 <br/>
  
-![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
+![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/set_up_virtualbox.PNG)
 <br />
 <br />
 <b>Create a new scan.  Connect Nessus with host IP address: </b>
