@@ -2,11 +2,6 @@
 
 ![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/active_directory_diagram.jpg)
 
-<h2>Description</h2>
-x  
-<br />
-
-
 <h2>Technology Used</h2>
 
 - <b>Oracle Virtual Box</b>
