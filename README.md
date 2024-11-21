@@ -59,6 +59,7 @@ x
 <b>Run the PowerShell script to create 1000 users in Active Directory.</b> 
 [Create Accounts Script by Josh Madakor](https://github.com/joshmadakor1/AD_PS)
 <br/>
+<br/>
 ![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/powershell_create_users2.PNG)
 ![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/AD_users_and_computers.PNG)
 <br />
