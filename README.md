@@ -1,4 +1,4 @@
-<h1>Home Lab Active Directory Using Oracle Virtual Box</h1>
+<h1>Home Lab Active Directory Using Oracle Virtual Box, Add Users with Powershell Script</h1>
 
 ![](https://github.com/rbrianshutt/active_directory_oracle_vm/blob/main/Active%20Directory/active_directory_diagram.jpg)
 
